@@ -1,13 +1,17 @@
-# 🚨 NOTE 🚨
-**October 2022**
+# Snake Game Tutorial
+This is a up to date version of the code for the Snake game tutorial by ourcade.
+You will find tags for each video in case you only want to look ahead so far.
+The code is for version 3000/beta of Kaboom.
 
-This template has been deprecated in favor of a more modern version using Vite. You can find it here: https://github.com/ourcade/phaser3-vite-template
+#1 Part 1 - https://youtu.be/geS2WDW19CA
+
+Below are the original template instructions
 
 ---
 
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 
-# Phaser 3 + Parcel Template
+# Parcel Template
 > For people who want to spend time making games instead of configuring build tools.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
